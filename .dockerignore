@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.git
+.gitignore
+.venv
+venv/
+.pytest_cache/
+.DS_Store
+tests/
+
+# Extras: partes del repositorio que no hacen falta dentro de la imagen
+.env
+.idea/
+.vscode/
+cliente_python/
+frontend/
+README.md
